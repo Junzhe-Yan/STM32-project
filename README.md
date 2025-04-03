@@ -1,5 +1,4 @@
 # Smart Car with Autonomous Navigation, Obstacle Avoidance, and Remote Control  
-*Bachelor's Thesis Project by Junzhe Yan*
 
 ## 🚗 Project Overview
 This project focuses on designing and implementing a smart car system using the **STM32F103ZET6** microcontroller, with capabilities for:
